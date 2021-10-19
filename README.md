@@ -13,7 +13,7 @@ Fazer um site de uma loja Geek.
 
 Projeto feito para meu curso tecnico em informação para a Internet do SENAC EAD, projeto de desenvolvimento ao decorrer dos modulos.
 
-**PROJETO EM ANDAMENTO**
+👷🏻**PROJETO EM ANDAMENTO**🚧🚧
 
 
 ## 🚀  Tecnologias
