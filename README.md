@@ -19,7 +19,7 @@ Projeto feito para meu curso tecnico em informação para a Internet do SENAC EA
 - [x] **CSS**
 
 #### Ferramentas
-- [**VS CODE**]()
+- [**VS CODE**](https://code.visualstudio.com/)
 
 #### Imagem do Site
 
